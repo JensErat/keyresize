@@ -14,17 +14,16 @@ keyresize uses `xsltproc`, an XSLT interpreter included in `libxslt`. It is not 
 
 1. Install XCode from the App Store. It's free, but huge and kind of overkill for that small tool.
 2. Install `libxslt` from homebrew. It's also free, but you need to be familar with the command line.
-
     - Install [homebrew](http://www,brew.sh/) if you haven't done yet
     - Open the terminal application and run `brew install libxslt`
     
     If you're using another package manager, you will probably also find that package in there.
 
-**Make a backup of your keynote document, or kittens might die[^1].** Keyresize comes without any warranty, but should work fine and you're be safe by making a simple copy of your presentation. You're performing regular backups anyway, do you?
+**Make a backup of your keynote document, or kittens might die [1].** Keyresize comes without any warranty, but should work fine and you're be safe by making a simple copy of your presentation. You're performing regular backups anyway, do you?
 
 Now you're ready to run the script. It will open in Apple Script Editor. Press "Run" in the menu bar to execute it. You will be asked for the new proportions and which file to modify.
 
-[^1]: Not really. But it actually could harm that lolcat pictures you included. ;)
+[1]: Not really. But it actually could harm that lolcat pictures you included. ;)
 
 How it Works
 ------------
