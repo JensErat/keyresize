@@ -7,6 +7,10 @@ _(without changing the text size)_
 
 It was developed in response to a question on [AskDifferent](http://apple.stackexchange.com/q/52014/12643), where some user needed to resize some web design dummy he put together in Keynote.
 
+[Download keyresize](https://github.com/JensErat/keyresize/archive/v1.0.0.zip) -- no need to install, just unzip and run from whereever you want.
+
+_You might need to right-click `keyresize.scpt` in Finder and click "Open" there if OS X warns about unsigned software._
+
 Usage
 -----
 
